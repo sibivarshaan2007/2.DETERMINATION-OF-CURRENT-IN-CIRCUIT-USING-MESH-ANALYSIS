@@ -7,7 +7,7 @@
 **APPARATUS REQUIRED:**
 
 **SL.NO	APPARATUS	SPECIFICATION	QUANTITY**
-
+h
   RegulatedPowersupply( RPS)(0-30 V)1
 	
   Ammeter	( 0 - 10 mA) MC	3
